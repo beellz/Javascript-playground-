@@ -19,8 +19,14 @@ function bmiCaluculator(weight, height) {
     return Math.round(bmi) ;
 }
 
-let bmi5 = bmiCaluculator(65, 1.8);
-console.log(bmi5);
+// let bmi5 = bmiCaluculator(65, 1.8);
+// console.log(bmi5);
 
 // chalenge third waiting.
+// random generator 
+
+let math = Math.random();
+let mathall = Math.floor(math * 6) + 1; 
+console.log(mathall)
+
 
