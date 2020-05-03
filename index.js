@@ -29,4 +29,4 @@ let math = Math.random();
 let mathall = Math.floor(math * 6) + 1; 
 console.log(mathall)
 
-
+//giving it to new branch
