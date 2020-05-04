@@ -27,6 +27,8 @@ function bmiCaluculator(weight, height) {
 
 let math = Math.random();
 let mathall = Math.floor(math * 6) + 1; 
-console.log(mathall)
+// console.log(mathall)
+
+
 
 
