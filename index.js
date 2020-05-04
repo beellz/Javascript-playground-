@@ -27,8 +27,22 @@ function bmiCaluculator(weight, height) {
 
 let math = Math.random();
 let mathall = Math.floor(math * 6) + 1; 
-console.log(mathall)
+// console.log(mathall)
 
 //giving it to new branch
 
-//checking the commit 
+//this is third challenge 
+//99 bottle of beer on the wall
+
+// need to maek a while loop 
+
+let count = 100 ;
+
+while (count > 0 ) {
+console.log(count)
+count--
+	if (count = 1){
+	
+	console.log("last beer");
+}
+} 
